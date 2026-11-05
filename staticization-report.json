@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "project": "project-14003423",
+  "generated_at": "2026-09-18 01:01:42",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/article/browsing-on-shared-devices",
+    "/article/content-sources-of-gossip-sites",
+    "/article/how-to-judge-site-reliability",
+    "/article/how-to-verify-online-rumors",
+    "/article/privacy-risks-cookie-script-popup",
+    "/article/read-a-site-by-domain-and-operation",
+    "/article/safety-checklist-before-visiting",
+    "/article/what-is-chigua-site",
+    "/article/what-to-do-about-rumor-and-infringement",
+    "/contact",
+    "/faq",
+    "/guide",
+    "/nature",
+    "/safety",
+    "/search"
+  ],
+  "route_count": 17,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
